@@ -1,10 +1,6 @@
 [
   {
-    "name": "test1",
-    "data": "test1"
-  },
-  {
-    "name": "test2",
-    "data": "test2"
+    "name": "empty",
+    "data": "test"
   }
 ]
