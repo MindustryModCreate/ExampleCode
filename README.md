@@ -1,11 +1,17 @@
 ### En
-- Adds examples to the program
-- [Blocks example](blocks.json)
-- [Items example](items.json)
-- [Liquids example](liquids.json)
+Adds examples to the program:
+- Blocks
+- Items
+- Liquids
+- Units
+- Weathers
+- Planets
 
 ### Ru
-- Добавляет шаблоны в программу
-- [Блоки шаблон](blocks.json)
-- [Предметы шаблон](items.json)
-- [Жидкости шаблон](liquids.json)
+Добавляет шаблоны в программу:
+- Блоки
+- Предметы
+- Жидкости
+- Юнитов
+- Погода
+- Планеты
