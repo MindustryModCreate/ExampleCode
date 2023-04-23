@@ -1,0 +1,5 @@
+type:Liquid
+name:HydroGen
+gas:true
+flammability:1
+color:9eabf7

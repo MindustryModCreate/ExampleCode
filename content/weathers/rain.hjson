@@ -1,0 +1,5 @@
+type:RainWeather
+name:Rain
+status: wet
+sound:rain
+soundVol:0.25

@@ -1,0 +1,80 @@
+name:Bereal
+//Вид планеты, Советую менять только color1, color2 и radius и planet
+mesh: {
+    type: "NoiseMesh",
+    seed: 1371,
+    divisions: 5,
+    radius: 0.7,//Радиус Планеты (Серпуло≈1
+    planet: berial
+    color1: "FFFF0F",//Hex
+    color2: "808080", //Hex
+    colorOct: 4,
+    colorPersistence: 0.5,
+    colorScale: 0.5,
+    colorThreshold: 0.5,
+    octaves: 4,
+    persistence: 1,
+    scale: 0.75,
+    mag: 1.2
+}
+//the mesh used for clouds. commented out since this planet has no clouds
+#cloudMesh: {}
+orbitSpacing: 100
+radius: 0.8 
+//Впишите радиус который написали в radius у Вида Планеты
+minZoom: 0.5
+drawOrbit: true
+atmosphereRadIn: 0
+atmosphereRadOut: 0.2
+accessible: true 
+//Можно высадиться? 
+updateLighting: false 
+//Смена Дня и Ночи В Игре
+sectorSeed: 1 
+//Не важно, любая цифра сойдёт
+bloom: false 
+//Свечение от планеты (Как у солнышка) 
+visible: true
+ //Видно ли планету (Скрыто Только У Tantros) 
+atmosphereColor: aaaaaaaa
+iconColor: FFFF0F
+hasAtmosphere: true
+allowWaveSimulation: true
+clearSectorOnLose: true
+allowWaves: true
+defaultCore: core
+//Ядро, поставил из шаблона в этом моде
+parent: sun 
+//Вокруг чего вертится (Serpulo, Erekir, Sun и т. Д.).
+solarSystem: sun
+launchCandidates: [] 
+//Не менять, бесполезно 
+//Скрытие вещи (тут я скрыл всё кроме меди) 
+hiddenItems: [
+    "lead",
+    "scrap",
+    "graphite",
+    "coal",
+    "titanium",
+    "thorium",
+    "silicon",
+    "plastanium",
+    "phase-fabric",
+    "surge-alloy",
+    "spore-pod",
+    "sand",
+    "blast-compound",
+    "pyratite",
+    "metaglass",
+    "beryllium",
+    "oxide",
+    "tungsten",
+    "carbide",
+    "fissile-matter",
+    "dormant-cyst"
+]
+alwaysUnlocked:true
+startSector: 0
+sectorSize: 1
+allowLaunchLoadout:true
+ //Выгрузка предметов при старте

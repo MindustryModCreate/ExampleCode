@@ -1,0 +1,7 @@
+type:Liquid
+name:CryoFluid
+heatCapacity:0.9
+temperature:0.25
+effect:freezing
+boilPoint:0.55
+color:6ecdec

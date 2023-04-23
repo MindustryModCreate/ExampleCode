@@ -1,0 +1,14 @@
+type:CellLiquid
+name:NeoPlasma
+heatCapacity:0.4
+temperature:0.54
+viscosity:0.85
+flammability:0
+capPuddles:false
+spreadTarget:water
+moveThroughBlock:true
+incinerable:true
+blockReactive:false
+colorFrom:e8803f
+colorTo:8c1225
+color:c33e2b

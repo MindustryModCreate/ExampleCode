@@ -1,6 +1,0 @@
-[
-  {
-    "name": "Угольный генератор",
-    "data": "type: \"PowerGenerator\"\nname: \"Угольный генератор\"\ndescription: \"Вырабатывает энергию путём сжигания горючих\nматериалов, таких как уголь\"\nitemCapacity: 10\nsize: 1\npowerProduction:1\nupdateEffect:\"smeltsmoke\"\nconsumes: {\nitems: { items:[ coal/1] }\n}\nrequirements: [\ncopper/25\nlead/15\n]\nhasPower: true\ncategory: \"power\"\nresearch: \"router\""
-  }
-]

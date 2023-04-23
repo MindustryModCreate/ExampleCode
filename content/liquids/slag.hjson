@@ -1,0 +1,6 @@
+type:Liquid
+name:Slag
+temperature:1
+viscosity:0.7
+effect:melting
+color:FFA166

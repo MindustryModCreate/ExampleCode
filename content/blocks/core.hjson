@@ -1,0 +1,19 @@
+type:CoreBlock
+name:Core
+description:Core description
+alwaysUnlocked:true
+isFirstTier:true
+unitType: toxopid
+health:2500
+size:5
+unitCapModifier:12
+itemCapacity:5000
+category:effect
+requirements: [
+    copper/100
+]
+research: {
+    root: true
+    name: "Name tree"
+    planet: "sun"
+}
