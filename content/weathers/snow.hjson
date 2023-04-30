@@ -1,5 +1,5 @@
 type:ParticleWeather
-name:Snow
+name:Snow-Снег
 particleRegion: particle
 sizeMax:13
 sizeMin:2.6

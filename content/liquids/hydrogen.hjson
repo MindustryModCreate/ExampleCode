@@ -1,5 +1,5 @@
 type:Liquid
-name:HydroGen
+name:HydroGen-Водород
 gas:true
 flammability:1
 color:9eabf7

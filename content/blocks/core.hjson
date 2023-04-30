@@ -1,5 +1,5 @@
 type:CoreBlock
-name:Core
+name:Core-Ядро
 description:Core description
 alwaysUnlocked:true
 isFirstTier:true

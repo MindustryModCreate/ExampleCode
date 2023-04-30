@@ -1,5 +1,5 @@
 type:Liquid
-name:CryoFluid
+name:CryoFluid-Криоген
 heatCapacity:0.9
 temperature:0.25
 effect:freezing

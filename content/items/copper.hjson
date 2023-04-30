@@ -1,0 +1,10 @@
+name:Copper-Медь
+description:"description"
+details:"details" 
+color:D99D73
+flammability: 0
+radioactivity: 0
+explosiveness: 0
+charge:0
+hardness: 1
+cost: 0.5

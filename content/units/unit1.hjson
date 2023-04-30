@@ -1,5 +1,5 @@
 unitType:flying
-name:Unit
+name:Unit-Юнит
 description:description
 flying:true
 drag:0.016

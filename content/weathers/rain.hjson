@@ -1,5 +1,5 @@
 type:RainWeather
-name:Rain
+name:Rain-Дождь
 status: wet
 sound:rain
 soundVol:0.25

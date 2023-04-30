@@ -1,4 +1,4 @@
-name:Bereal
+name:Bereal-Бериал
 //Вид планеты, Советую менять только color1, color2 и radius и planet
 mesh: {
     type: "NoiseMesh",

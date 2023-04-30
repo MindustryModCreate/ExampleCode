@@ -1,5 +1,5 @@
 type:CellLiquid
-name:NeoPlasma
+name:NeoPlasma-Неоплазма
 heatCapacity:0.4
 temperature:0.54
 viscosity:0.85
